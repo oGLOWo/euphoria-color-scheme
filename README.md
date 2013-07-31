@@ -18,7 +18,7 @@ This is based off the Monokai scheme from [https://github.com/longcao/monokai-sc
 3. This color scheme depends on the Adobe Source Code Pro font that you can [download here](http://sourceforge.net/projects/sourcecodepro.adobe/files/SourceCodePro_FontsOnly-1.017.zip/download) If you don't want to use Source Code Pro, then don't worry about it and just change the font within idea to the font of your choice. Install the font onto your system. For example, on Mac OS X, use `FontBook` to install it. 
     * ** Special Note for Mac OS X ** and possibly other systems on Java/fonts
     * Installing using something like `FontBook` is not enough. You'll also have to perform the following step:
-    * Copy the TTFs (I didn't have much luck with the OTFs, but you can try) to `/Library/Java/Home/lib/fonts/` . If that location doesn't exist on your Mac, then just find the location where java 6 is installed on your system. Intellij IDEA uses Java 6 to run so that's why they have to be in the Java 7 `/lib/fonts` location.
+    * Copy the TTFs (I didn't have much luck with the OTFs, but you can try) to `/Library/Java/Home/lib/fonts/` . If that location doesn't exist on your Mac, then just find the location where java 6 is installed on your system. Intellij IDEA uses Java 6 to run so that's why they have to be in the Java 6 `/lib/fonts` location. If you run IDEA with Java 7 or when they put out a version that runs with Java 7, just throw the fonts into 7's lib/fonts directory.
 4. Open IDEA.
 5. Go to Preferences -> IDE Settings -> Appearance -> UI Options, change the Theme to Darcula, and click Apply.
 6. Go to Preferences -> IDE Settings -> Colors & Fonts, change the Scheme name to Euphoria, and click Apply.
