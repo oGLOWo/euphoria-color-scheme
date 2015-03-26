@@ -13,7 +13,7 @@ This is based off the Monokai scheme from [https://github.com/longcao/monokai-sc
 
                        | Community Edition | Ultimate Edition
     ------------------ | --------------------------- | ---------------------------
-    **Mac OS X**       | `~/Librarary/Preferences/IdeaIC14/colors` | just eating
+    **Mac OS X**       | `~/Librarary/Preferences/IdeaIC14/colors` | `~/Library/Preferences/IntelliJIdea14/colors`
     **Linux/UNIX**     | no                          | two times
     **Windows Vista/7/8** | lal                        | turtles
     **Windows XP**     | sometimes                   | some other times
