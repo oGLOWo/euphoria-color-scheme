@@ -11,7 +11,7 @@ This is based off the Monokai scheme from [https://github.com/longcao/monokai-sc
 2.  [Download the Euphoria Color Scheme Here](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/Euphoria.icls)
 3.  Install the Color Scheme into your system's color scheme location. See the table below for the proper location on your system. REMEMBER that I'm using version 14 as an example. Don't forget to substitute 12 or 13 if that's what you use.    
 
-    Should we do this? | Do you know the muffin man? | Say there fella...what's up
+    Should we do this? | Community Edition | Ultimate Edition
     ------------------ | --------------------------- | ---------------------------
     I don't know       | lalalla                     | just eating
     Do you             | no                          | two times
