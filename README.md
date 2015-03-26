@@ -10,7 +10,7 @@ This is based off the Monokai scheme from [https://github.com/longcao/monokai-sc
 1.  Quit IDEA
 2.  [Download the Euphoria Color Scheme Here](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/Euphoria.icls)
 3.  Install the Color Scheme into your system's color scheme location. See the table below for the proper location on your system. REMEMBER that I'm using version 14 as an example. Don't forget to substitute 12 or 13 if that's what you use.
-    
+
     | sb | Community Edition | Ultimate Edition |
     | -- | ----------------- | ---------------- |
     | la | Dirty | Sloppy |
