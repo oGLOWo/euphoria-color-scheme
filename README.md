@@ -13,8 +13,8 @@ This is based off the Monokai scheme from [https://github.com/longcao/monokai-sc
 
                        | Community Edition | Ultimate Edition
     ------------------ | --------------------------- | ---------------------------
-    I don't know       | lalalla                     | just eating
-    Do you             | no                          | two times
+    **Mac OS X**       | lalalla                     | just eating
+    **Linux/UNIX**     | no                          | two times
     
 4.  This color scheme depends on the Adobe Source Code Pro font that you can [download here](https://github.com/adobe-fonts/source-code-pro/releases/latest) If you don't want to use Source Code Pro, then don't worry about it and just change the font within idea to the font of your choice. Install the font onto your system. Use the OTF fonts first. If anything funny happens, then default to the TTFs. If you don't know how to install the fonts on your system, [visit this page for detailed instructions](https://github.com/adobe-fonts/source-code-pro#font-installation-instructions)
     * ** Special Note for Mac OS X ** and possibly other systems when it comes to Java & Fonts...
