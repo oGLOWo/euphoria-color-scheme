@@ -15,7 +15,7 @@ This is based off the Monokai scheme from [https://github.com/longcao/monokai-sc
     ------------------ | --------------------------- | ---------------------------
     **Mac OS X**       | `~/Librarary/Preferences/IdeaIC14/colors` | `~/Library/Preferences/IntelliJIdea14/colors`
     **Linux/UNIX**     | `~/.IdeaIC14/config/colors`               | `~/.IntelliJIdea14/config/colors`
-    **Windows Vista/7/8** | lal                        | turtles
+    **Windows Vista/7/8** | `C:\Users\<User name>\.IdeaIC14\config\colors`                        | turtles
     **Windows XP**     | sometimes                   | some other times
     
 4.  This color scheme depends on the Adobe Source Code Pro font that you can [download here](https://github.com/adobe-fonts/source-code-pro/releases/latest) If you don't want to use Source Code Pro, then don't worry about it and just change the font within idea to the font of your choice. Install the font onto your system. Use the OTF fonts first. If anything funny happens, then default to the TTFs. If you don't know how to install the fonts on your system, [visit this page for detailed instructions](https://github.com/adobe-fonts/source-code-pro#font-installation-instructions)
