@@ -32,5 +32,5 @@ This is based off the Monokai scheme from [https://github.com/longcao/monokai-sc
 12.  Go see if all the `Source Code Pro` font weights and styles are now available. Chances are that they will be and you can now live in peace with your new `Euphoria` color scheme and `Source Code Pro` font. This all happened to me several times so I'm pretty sure this will solve your problem \(should you encounter it\). If it doesn't, you will have to hit Google for answers or send me a message...I might have already figured it out, but haven't updated this README.
 
 ### Notes
-As of now the focus of this scheme is only on Scala and Java and I don't have time to do much more with it. Feel free to send pull requests with support for other stuff like XML, Groovy, R, Clojure, Brainfuck, JSON, XML, or whatever you want. 
+As of now, the focus of this scheme is only on Scala and Java and I don't have time to do much more with it. Feel free to send pull requests with support for other stuff like XML, Groovy, R, Clojure, Brainfuck, JSON, XML, or whatever you want. 
 
