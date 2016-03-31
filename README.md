@@ -5,7 +5,7 @@ This is based off the Monokai scheme from [https://github.com/longcao/monokai-sc
 
 [![Euphoria Intellij IDEA 12, 13, 14, 15, and 2016.1 Scala](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/screenshot-thumb.png)](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/screenshot.png)
 [![Euphoria Intellij IDEA 12, 13, 14, 15, and 2016.1 Java](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/screenshot-java-thumb.png)](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/screenshot-java.png)
-[![Euphoria Intellij IDEA 12, 13, 14, 15, and 2016.1 JSON](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/screenshot--json-thumb.png)](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/screenshot-json.png)
+[![Euphoria Intellij IDEA 12, 13, 14, 15, and 2016.1 JSON](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/screenshot-json-thumb.png)](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/screenshot-json.png)
 
 ### Instructions
 
