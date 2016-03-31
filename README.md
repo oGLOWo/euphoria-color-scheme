@@ -1,22 +1,24 @@
-## Euphoria Color Scheme for JetBrains IntelliJ IDEA 12, 13, and 14
+## Euphoria Color Scheme for JetBrains IntelliJ IDEA 12, 13, 14, 15, and 2016.1
 This is based off the Monokai scheme from [https://github.com/longcao/monokai-scala-idea](https://github.com/longcao/monokai-scala-idea)
 
 ### Screenshots
 
-[![Euphoria Intellij IDEA 12, 13, and 14](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/screenshot-thumb.png)](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/screenshot.png)
+[![Euphoria Intellij IDEA 12, 13, 14, 15, and 2016.1 Scala](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/screenshot-thumb.png)](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/screenshot.png)
+[![Euphoria Intellij IDEA 12, 13, 14, 15, and 2016.1 Java](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/screenshot-java-thumb.png)](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/screenshot-java.png)
+[![Euphoria Intellij IDEA 12, 13, 14, 15, and 2016.1 JSON](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/screenshot--json-thumb.png)](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/screenshot-json.png)
 
 ### Instructions
 
 1.  Quit IDEA
 2.  [Download the Euphoria Color Scheme Here](https://raw.githubusercontent.com/oGLOWo/euphoria-color-scheme/master/intellij-idea/Euphoria.icls)
-3.  Install the Color Scheme into your system's color scheme location. See the table below for the proper location on your system. REMEMBER that I'm using version 14 as an example. Don't forget to substitute 12 or 13 if that's what you use.    
+3.  Install the Color Scheme into your system's color scheme location. See the table below for the proper location on your system. REMEMBER that I'm using version 2016.1 as an example. Don't forget to substitute 12, 13, 14, or 15 if that's what you use.    
 
                        | Community Edition | Ultimate Edition
     ------------------ | --------------------------- | ---------------------------
-    **Mac OS X**       | `~/Librarary/Preferences/IdeaIC14/colors` | `~/Library/Preferences/IntelliJIdea14/colors`
-    **Linux/UNIX**     | `~/.IdeaIC14/config/colors`               | `~/.IntelliJIdea14/config/colors`
-    **Windows Vista/7/8** | `C:\Users\<User name>\.IdeaIC14\config\colors` | `C:\Users\<User name>\.IntelliJIdea14\config\colors`
-    **Windows XP**     | `C:\Documents and Settings\<User name>\.IdeaIC14\config\colors` | `C:\Documents and Settings\<User name>\.IntelliJIdea14\config\colors`
+    **Mac OS X**       | `~/Librarary/Preferences/IdeaIC2016.1/colors` | `~/Library/Preferences/IntelliJIdea2016.1/colors`
+    **Linux/UNIX**     | `~/.IdeaIC2016.1/config/colors`               | `~/.IntelliJIdea2016.1/config/colors`
+    **Windows Vista/7/8** | `C:\Users\<User name>\.IdeaIC2016.1\config\colors` | `C:\Users\<User name>\.IntelliJIdea2016.1\config\colors`
+    **Windows XP**     | `C:\Documents and Settings\<User name>\.IdeaIC2016.1\config\colors` | `C:\Documents and Settings\<User name>\.IntelliJIdea2016.1\config\colors`
     
 4.  This color scheme depends on the Adobe Source Code Pro font that you can [download here](https://github.com/adobe-fonts/source-code-pro/releases/latest) If you don't want to use Source Code Pro, then don't worry about it and just change the font within idea to the font of your choice. Install the font onto your system. Use the OTF fonts first. If anything funny happens, then default to the TTFs. If you don't know how to install the fonts on your system, [visit this page for detailed instructions](https://github.com/adobe-fonts/source-code-pro#font-installation-instructions)
     * ** Special Note for Mac OS X ** and possibly other systems when it comes to Java & Fonts...
